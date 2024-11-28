@@ -1,5 +1,5 @@
-secrets = {'BOT_API_TOKEN': '7553852457:AAHuo0PTGC3NFQOMlss9fmHCxyMkTZWRvHQ',
-           "db_name": "Expenses",
-           "db_user": "postgres",
-           "db_password": "postgres",
+secrets = {'BOT_API_TOKEN': 'MY_TOKEN',
+           "db_name": "NAME",
+           "db_user": "USER",
+           "db_password": "PASS"
            }
