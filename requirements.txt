@@ -1,0 +1,4 @@
+telebot
+sqlalchemy
+psycopg2-binary
+pandas

@@ -1,0 +1,32 @@
+# PyCharm
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables and virtual environments
+.env/
+venv/
+*.env
+*.venv
+
+# Pytest
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Database files (если есть локальные файлы БД)
+*.db
+*.sqlite
